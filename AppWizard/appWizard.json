@@ -17,6 +17,7 @@
             "getSearchShops": "user/getsearchShops",
             "getShopsByItem": "user/getShopsByItem",
             "getShopsByCategory": "user/getShopsByCategory",
+            "getRelatedShops": "user/getRelatedShops",
             "getAllReels": "user/getAllReels",
             "updateShopClicks": "user/updateShopsClicks",
             "getShopDetailsById": "user/getShopsDetailsById",
