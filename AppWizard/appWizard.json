@@ -1,0 +1,28 @@
+{
+    "generalInfo": {
+        "plateform": "android",
+        "minAppVersion": "1.0",
+        "appName": "AasPas",
+        "appNameFontSize": "13",
+        "whatsappHelp": "https://api.whatsapp.com/send?phone=918884446009&text=_*Aaspas+help*_",
+        "searchPlaceholder": "Search Mobile shop",
+        "itemTypeVisible": "1"
+    },
+    "api": {
+        "base_url": "https://api-246icbhmiq-uc.a.run.app/",
+        "user": {
+            "getAllShops": "user/getAllShopss",
+            "getSearchShops": "user/getsearchShops",
+            "getShopsByItem": "user/getShopsByItem",
+            "getShopsByCategory": "user/getShopsByCategory",
+            "getAllReels": "user/getAllReels",
+            "updateShopClicks": "user/updateShopsClicks",
+            "getShopDetailsById": "user/getShopsDetailsById",
+            "getKarigarByCategory": "user/getKarigarByCategory",
+            "getKarigarDetailsById": "user/getkarigarDetailsById",
+            "getUserArea": "user/getUserArea",
+            "getAllCategory": "user/getCategory",
+            "getItemsByCategory": "user/getItemssBycat"
+        }
+    }
+}
