@@ -25,7 +25,8 @@
             "getKarigarDetailsById": "user/getkarigarDetailsById",
             "getUserArea": "user/getUserArea",
             "getAllCategory": "user/getCategory",
-            "getItemsByCategory": "user/getItemssBycat"
+            "getItemsByCategory": "user/getItemssBycat",
+            "getShopsCatItems": "user/getShopsCatItems"
         }
     }
 }
