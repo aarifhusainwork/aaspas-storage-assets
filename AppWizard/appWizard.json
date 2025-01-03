@@ -14,20 +14,19 @@
     "api": {
         "base_url": "https://api-246icbhmiq-uc.a.run.app/",
         "user": {
+            "getAllCategory": "user/getCategory",
+            "getAllReels": "user/getAllReels",
             "getAllShops": "user/getAllShopss",
             "getSearchShops": "user/getsearchShops",
             "getShopsByItem": "user/getShopsByItem",
+            "getShopsCatItems": "user/getShopsCatItems",
             "getShopsByCategory": "user/getShopsByCategory",
-            "getRelatedShops": "user/getRelatedShops",
-            "getAllReels": "user/getAllReels",
-            "updateShopClicks": "user/updateShopsClicks",
             "getShopDetailsById": "user/getShopsDetailsById",
+            "getRelatedShops": "user/getRelatedShops",
+            "updateShopClicks": "user/updateShopsClicks",
             "getKarigarByCategory": "user/getKarigarByCategory",
             "getKarigarDetailsById": "user/getkarigarDetailsById",
-            "getUserArea": "user/getUserArea",
-            "getAllCategory": "user/getCategory",
-            "getItemsByCategory": "user/getItemssBycat",
-            "getShopsCatItems": "user/getShopsCatItems"
+            "getUserArea": "user/getUserArea"
         }
     }
 }
