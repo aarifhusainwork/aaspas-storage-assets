@@ -8,8 +8,8 @@
         "whatsappHelp": "https://api.whatsapp.com/send?phone=918884446009&text=_*Aaspas+help*_",
         "searchPlaceholder": "Search Mobile shop",
         "itemTypeVisible": "1",
-        "UserWhatsappUrl":"https://api.whatsapp.com/send",
-        "userDynamicMsg":"_*Hello+Aaspas*_"
+        "UserWhatsappUrl":"https://api.whatsapp.com/send?phone=",
+        "userDynamicMsg":"&text=_*Aaspas+help*_"
     },
     "api": {
         "base_url": "https://api-246icbhmiq-uc.a.run.app/",
