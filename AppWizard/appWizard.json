@@ -6,7 +6,7 @@
         "appName": "AasPas",
         "appNameFontSize": "13",
         "whatsappHelp": "https://api.whatsapp.com/send?phone=918884446009&text=_*Aaspas+help*_",
-        "searchPlaceholder": "Search Mobile shop",
+        "searchPlaceholder": "Search for Burger, Mobile shop, bag etc.",
         "itemTypeVisible": "1",
         "UserWhatsappUrl":"https://api.whatsapp.com/send?phone=",
         "userDynamicMsg":"&text=_*Aaspas+help*_",
