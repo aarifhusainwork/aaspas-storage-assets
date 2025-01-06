@@ -1,7 +1,7 @@
 {
     "generalInfo": {
         "plateform": "android",
-        "minAppVersion": "2.0.0",
+        "minAppVersion": "1.0.0",
         "newVersionLink": "https://play.google.com/store/apps/details?id=com.ge.capital.konysbiapp",
         "appName": "AasPas",
         "appNameFontSize": "13",
