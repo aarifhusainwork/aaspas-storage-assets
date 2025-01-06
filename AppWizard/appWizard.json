@@ -9,7 +9,7 @@
         "searchPlaceholder": "Search for Burger, Mobile shop, bag etc.",
         "itemTypeVisible": "1",
         "UserWhatsappUrl":"https://api.whatsapp.com/send?phone=",
-        "userDynamicMsg":"&text=_*Aaspas+help*_",
+        "userDynamicMsg":"&text=_*Aaspas+hello*_",
         "cardVisibleOnReel":"0"
     },
     "api": {
