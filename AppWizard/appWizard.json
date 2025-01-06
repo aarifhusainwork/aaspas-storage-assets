@@ -1,8 +1,8 @@
 {
     "generalInfo": {
         "plateform": "android",
-        "minAppVersion": "1.0",
-        "newVersionLink": "https://play.google.com/store/apps/details?id=com.aaspas.app",
+        "minAppVersion": "1.0.0",
+        "newVersionLink": "https://play.google.com/store/apps/details?id=com.ge.capital.konysbiapp",
         "appName": "AasPas",
         "appNameFontSize": "13",
         "whatsappHelp": "https://api.whatsapp.com/send?phone=918884446009&text=_*Aaspas+help*_",
@@ -10,7 +10,7 @@
         "itemTypeVisible": "1",
         "UserWhatsappUrl":"https://api.whatsapp.com/send?phone=",
         "userDynamicMsg":"&text=_*Aaspas+help*_",
-        "cardVisibleOnReel":"1"
+        "cardVisibleOnReel":"0"
     },
     "api": {
         "base_url": "https://api-246icbhmiq-uc.a.run.app/",
