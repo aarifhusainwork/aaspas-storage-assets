@@ -9,7 +9,7 @@
         "searchPlaceholder": "Search for Burger, Mobile shop, bag1313",
         "UserWhatsappUrl":"https://api.whatsapp.com/send?phone=",
         "userDynamicMsg":"&text=_*Aaspas+hello*_",
-        "itemTypeVisible": "0",
+        "itemTypeVisible": "1",
         "cardVisibleOnReel":"1"
     },
     "api": {
