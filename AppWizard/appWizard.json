@@ -6,28 +6,28 @@
         "appName": "AasPas",
         "appNameFontSize": "13",
         "whatsappHelp": "https://api.whatsapp.com/send?phone=918884446009&text=_*Aaspas+help*_",
-        "searchPlaceholder": "Search for Burger, Mobile shop, bag etc.",
-        "itemTypeVisible": "1",
+        "searchPlaceholder": "Search for Burger, Mobile shop, bag etc.11",
         "UserWhatsappUrl":"https://api.whatsapp.com/send?phone=",
         "userDynamicMsg":"&text=_*Aaspas+hello*_",
+        "itemTypeVisible": "1",
         "cardVisibleOnReel":"0"
     },
     "api": {
         "base_url": "https://api-246icbhmiq-uc.a.run.app/",
         "user": {
-            "getAllCategory": "user/getCategory",
-            "getAllReels": "user/getAllReels",
-            "getAllShops": "user/getAllShopss",
-            "getSearchShops": "user/getsearchShops",
-            "getShopsByItem": "user/getShopsByItem",
-            "getShopsCatItems": "user/getShopsCatItems",
-            "getShopsByCategory": "user/getShopsByCategory",
-            "getShopDetailsById": "user/getShopsDetailsById",
-            "getRelatedShops": "user/getRelatedShops",
-            "updateShopClicks": "user/updateShopsClicks",
-            "getKarigarByCategory": "user/getKarigarByCategory",
-            "getKarigarDetailsById": "user/getkarigarDetailsById",
-            "getUserArea": "user/getUserArea"
+            "getAllCategory": "user/getCategory/?client=android&",
+            "getAllReels": "user/getAllReels/?client=android&",
+            "getAllShops": "user/getAllShopss/?client=android&",
+            "getSearchShops": "user/getsearchShops/?client=android&",
+            "getShopsByItem": "user/getShopsByItem/?client=android&",
+            "getShopsCatItems": "user/getShopsCatItems/?client=android&",
+            "getShopsByCategory": "user/getShopsByCategory/?client=android&",
+            "getShopDetailsById": "user/getShopsDetailsById/?client=android&",
+            "getRelatedShops": "user/getRelatedShops/?client=android&",
+            "updateShopClicks": "user/updateShopsClicks/?client=android&",
+            "getKarigarByCategory": "user/getKarigarByCategory/?client=android&",
+            "getKarigarDetailsById": "user/getkarigarDetailsById/?client=android&",
+            "getUserArea": "user/getUserArea/?client=android&"
         }
     }
 }
